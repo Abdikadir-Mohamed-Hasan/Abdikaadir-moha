@@ -1,10 +1,10 @@
 <!-- HEADER WITH ANIMATED GRADIENT -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Abdikaadir%20Mohamed%20Hassan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Frontend%20Developer%20%7C%20UI/UX%20Designer%20%7C%20SystemAnalysist%20Creator&descSize=20&descAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Abdikaadir%20Mohamed%20Hassan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Frontend%20Developer%20%7C%20UI/UX%20Designer%20%7C%20System Analysist%20Creator&descSize=20&descAlignY=65" />
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&height=50&lines=Frontend+Developer;UI/UX+Designer;Tech+Enthusiast;Creative+Problem+Solver;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&height=50&lines=Frontend+Developer;UI/UX+Designer;System+Analysist;Creative+Problem+Solver;Always+Learning" alt="Typing SVG" />
 </h1>
 
 <div align="center">
