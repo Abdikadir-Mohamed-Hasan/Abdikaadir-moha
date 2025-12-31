@@ -1,6 +1,6 @@
 <!-- HEADER WITH ANIMATED GRADIENT -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Abdikaadir%20Mohamed%20Hassan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Frontend%20Developer%20%7C%20UI/UX%20Designer%20%7C%20System Analysist%20Creator&descSize=20&descAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Abdikaadir%20Mohamed%20Hassan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Frontend%20Developer%20%7C%20UI/UX%20Designer%20%7C%20System%20Analysist%20Creator&descSize=20&descAlignY=65" />
 </p>
 
 <h1 align="center">
