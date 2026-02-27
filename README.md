@@ -30,7 +30,7 @@
 
 ---
 
-## 📊 GitHub Stats with Advanced Animations
+## 📊 GitHub Stats
 <div align="center">
   
   <!-- GRID LAYOUT -->
@@ -56,7 +56,7 @@
 
 ---
 
-## 🚀 Tech Stack with Hover Effects
+## 🚀 Tech Stack
 <div align="center">
   
   ### 💻 Languages & Frameworks
