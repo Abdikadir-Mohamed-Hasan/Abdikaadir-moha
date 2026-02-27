@@ -46,11 +46,7 @@
   <!-- STREAK STATS -->
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdikaadir-moha&theme=radical&border_radius=20&background=0D1117&border=00BFFF&stroke=00BFFF&ring=00BFFF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=00BFFF&currStreakLabel=00BFFF&dates=8B949E" />
   
-  <!-- 3D CONTRIBUTION CHART -->
-  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdikaadir-moha&theme=radical&border_radius=20" />
-  
-  <!-- ACTIVITY GRAPH -->
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=abdikaadir-moha&theme=react-dark&bg_color=0D1117&color=00BFFF&line=00BFFF&point=FF6B6B&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" />
+ 
   
 </div>
 
