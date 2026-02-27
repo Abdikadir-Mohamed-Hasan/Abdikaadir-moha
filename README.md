@@ -34,14 +34,7 @@
 <div align="center">
   
   <!-- GRID LAYOUT -->
-  <div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width="45%" src="https://github-readme-stats.vercel.app/api?username=abdikaadir-moha&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=20&bg_color=30,0d1117,161b22&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff&border_color=00BFFF&ring_color=00BFFF&cache_seconds=86400" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdikaadir-moha&layout=compact&theme=radical&border_radius=20&bg_color=30,161b22,0d1117&title_color=00BFFF&text_color=ffffff&border_color=00BFFF&langs_count=8&size_weight=0.5&count_weight=0.5" />
-    </a>
-  </div>
+ 
   
   <!-- STREAK STATS -->
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdikaadir-moha&theme=radical&border_radius=20&background=0D1117&border=00BFFF&stroke=00BFFF&ring=00BFFF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=00BFFF&currStreakLabel=00BFFF&dates=8B949E" />
