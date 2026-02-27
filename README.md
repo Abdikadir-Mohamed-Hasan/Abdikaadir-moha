@@ -97,9 +97,6 @@
   <a href="https://twitter.com/">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=black" />
   </a>
-  <a href="https://codepen.io/">
-    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white&labelColor=black" />
-  </a>
   
 </div>
 
